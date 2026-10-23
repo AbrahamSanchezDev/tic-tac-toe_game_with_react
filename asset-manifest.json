@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/curso-udemy/static/css/main.6290bb21.css",
-    "main.js": "/curso-udemy/static/js/main.32d9ee90.js",
-    "static/js/787.827e239d.chunk.js": "/curso-udemy/static/js/787.827e239d.chunk.js",
-    "index.html": "/curso-udemy/index.html",
-    "main.6290bb21.css.map": "/curso-udemy/static/css/main.6290bb21.css.map",
-    "main.32d9ee90.js.map": "/curso-udemy/static/js/main.32d9ee90.js.map",
-    "787.827e239d.chunk.js.map": "/curso-udemy/static/js/787.827e239d.chunk.js.map"
+    "main.css": "/tic-tac-toe_game_with_react/static/css/main.6290bb21.css",
+    "main.js": "/tic-tac-toe_game_with_react/static/js/main.1fe75e67.js",
+    "static/js/787.827e239d.chunk.js": "/tic-tac-toe_game_with_react/static/js/787.827e239d.chunk.js",
+    "index.html": "/tic-tac-toe_game_with_react/index.html",
+    "main.6290bb21.css.map": "/tic-tac-toe_game_with_react/static/css/main.6290bb21.css.map",
+    "main.1fe75e67.js.map": "/tic-tac-toe_game_with_react/static/js/main.1fe75e67.js.map",
+    "787.827e239d.chunk.js.map": "/tic-tac-toe_game_with_react/static/js/787.827e239d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6290bb21.css",
-    "static/js/main.32d9ee90.js"
+    "static/js/main.1fe75e67.js"
   ]
 }
